@@ -1,0 +1,14 @@
+Final Training Accuracy: 1.0000
+Final Validation Accuracy: 1.0000
+Final Training Loss: 0.0001
+Final Validation Loss: 0.0002
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        ripe       1.00      1.00      1.00       382
+      unripe       1.00      1.00      1.00       188
+
+    accuracy                           1.00       570
+   macro avg       1.00      1.00      1.00       570
+weighted avg       1.00      1.00      1.00       570
